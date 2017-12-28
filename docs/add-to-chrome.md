@@ -1,6 +1,6 @@
 ## Add Custom Build to Chrome
 
-Open `Settings` > `Extensions`.
+Open `chrome://extensions`.
 
 Check "Developer mode".
 
